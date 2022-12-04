@@ -15,6 +15,7 @@ public class Polynomial
      * then addTerm(3x) should result in poly being 1 + 5x
      *
      * @param term Monomial to be added
+     *             Author - Libby Kenigsberg
      */
     public void addTerm(Monomial term)
     {
